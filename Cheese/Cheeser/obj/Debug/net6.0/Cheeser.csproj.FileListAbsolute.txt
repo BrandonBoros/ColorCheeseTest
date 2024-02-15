@@ -1,0 +1,14 @@
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\bin\Debug\net6.0\Cheeser.exe
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\bin\Debug\net6.0\Cheeser.deps.json
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\bin\Debug\net6.0\Cheeser.runtimeconfig.json
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\bin\Debug\net6.0\Cheeser.dll
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\bin\Debug\net6.0\Cheeser.pdb
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.AssemblyInfoInputs.cache
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.AssemblyInfo.cs
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.csproj.CoreCompileInputs.cache
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.dll
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\refint\Cheeser.dll
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.pdb
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\Cheeser.genruntimeconfig.cache
+C:\Users\2377215\Source\Repos\Cheeser\Cheeser\obj\Debug\net6.0\ref\Cheeser.dll
